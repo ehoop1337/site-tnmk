@@ -1985,7 +1985,7 @@ h1, h2, h3, h4, h5, h6 {
 .block_4 .content .text_wrapper {
     overflow: hidden;
     position: relative;
-    height: 300px;
+    height: 290px;
     margin-top: 2.5rem;
 }
 .block_4 .content .text_wrapper .text {
